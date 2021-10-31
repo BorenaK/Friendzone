@@ -1,2 +1,2 @@
 # Friendzone
-#PHP Code for the KEele University Assessment
+#PHP Code for the Keele University Assessment
