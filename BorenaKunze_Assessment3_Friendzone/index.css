@@ -1,0 +1,17 @@
+/*
+Styles shared by all pages
+ */
+
+#main-container {
+    display: flex;
+    justify-content: center;
+}
+main {
+    width: 100%;
+    max-width: 40rem;
+    margin: 1rem;
+}
+
+article {
+    margin: 1rem 0;
+}
